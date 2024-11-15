@@ -60,7 +60,7 @@ Hi,I'm Sankalp Chavhan🙌, an Engineer, I am trying to be good at ML and Backen
 <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=SankalpC10&layout=compact&theme=radical" />
 <br />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SankalpC10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=SankalpC10&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 <br /> 
 
 ![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=SankalpC10&show_icons=true&hide_border=true)
