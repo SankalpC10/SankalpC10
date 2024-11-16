@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Sankalp!](https://github.com/SankalpC10)
+### Hello 👋 I am [Sankalp!](https://github.com/SankalpC10)
 
 <br/>
 
