@@ -25,7 +25,7 @@
 Hi,I'm Sankalp Chavhan🙌, an Engineer, I am trying to be good at ML and Backend. Apart from that I love gaming, anime and Sports.❤✌
 
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh2ZWlyMzRxdjF2dDdwcmJsbDB0eHQzYzhpcXlkeHJnZHJ4YjdsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" />
+//<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh2ZWlyMzRxdjF2dDdwcmJsbDB0eHQzYzhpcXlkeHJnZHJ4YjdsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
