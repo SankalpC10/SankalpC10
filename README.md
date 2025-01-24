@@ -33,7 +33,7 @@ Hi,I'm Sankalp Chavhan, an Engineer, I am trying to be good at ML and Backend. A
 - 🔭 I’m a ML Engineer.
 - 🌱 I’m currently learning Advanced NLP using LLMs.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Ask me about anything , Would love to answer them.
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@sankalpchavhan)
 - 📝[Portfolio](https://github.com/SankalpC10)
